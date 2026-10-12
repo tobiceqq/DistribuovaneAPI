@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TRIP-6acd08c21f4fe",
+        "city": "Praha",
+        "date_from": "2026-11-15",
+        "date_to": "2026-11-17",
+        "people": 2,
+        "attractions": [
+            "ATTR-PRG-01",
+            "ATTR-PRG-02"
+        ],
+        "status": "created"
+    }
+]
